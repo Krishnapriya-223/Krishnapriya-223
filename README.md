@@ -5,7 +5,7 @@
 
 - 📫 Reach me - **krishnamath27@gmail.com**
 
-- ⚡ Fun fact : **Magic that my clock make when I start to code😂**
+- ⚡ Fun fact : **Magic that my clock makes when I start to code😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
