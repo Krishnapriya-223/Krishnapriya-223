@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Priya</h1>
-<h3 align="center">A IT sophomore at Sathyabama Institute of Science and Technology and also an aspiring android app developer. The one, who loves to code and explore new stuffs on technology.</h3>
+<h3 align="center">A IT sophomore at Sathyabama Institute of Science and Technology and also an aspiring android app developer. The one, who loves to code and explore new stuffs on technology. Passionate to learn and grow.</h3>
 
 - 🌱 I’m currently learning **Android App Development**
 
